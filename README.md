@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SenselessA
+- 👀 I’m interested in JavaScript, TS, React, Golang
+- 🌱 I’m currently learning Golang
